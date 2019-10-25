@@ -1,0 +1,25 @@
+ body{
+   background-color: #57737A;
+ }
+table{
+  display: flex;
+  justify-content: center;
+}
+th {
+  background-color: #C2FCF7;
+  border: 1px solid black;
+  height: 180px;
+  width: 180px;
+}
+
+h1{
+  color: pink;
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
+}
+.userChoice {
+  color: pink;
+  font-size: 80px;
+
+}
